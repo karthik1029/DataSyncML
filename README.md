@@ -67,3 +67,10 @@ MongoDB connection URI:
 - Transfer data from PostgreSQL to MongoDB by clicking the Transfer Data button.
 - Data will be cleaned using machine learning techniques before it is inserted into MongoDB.
 - View the newly transferred data in MongoDB.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+## Additional Notes
+Ensure proper security practices for storing and managing database credentials, especially when deploying to production.
